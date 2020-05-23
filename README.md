@@ -1,1 +1,1 @@
-# Music-Generation-with-music21-lib-and-LSTM
+# Deep-Learning-for-Music-Generation
